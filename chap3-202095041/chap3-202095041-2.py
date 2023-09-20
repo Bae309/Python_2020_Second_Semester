@@ -1,0 +1,5 @@
+print("\n\n 두줄바꿈 \n 연습")
+print("\ttap key\t연습")
+print("글자가 \"강조\" 되는 연습")
+print("\\\\\\ 3개 출력")
+print(r"\\\\ \n \t 그대로 출력 \n \" ")
